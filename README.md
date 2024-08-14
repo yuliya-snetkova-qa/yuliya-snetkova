@@ -68,7 +68,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/yuliya-snetkova-qa/yuliya-snetkova/blob/main/certificate1.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/yuliya-snetkova-qa/yuliya-snetkova/blob/main/assets/certificate1.png)
 
 
 <br>
